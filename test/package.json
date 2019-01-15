@@ -1,0 +1,24 @@
+{
+    "name": "test-soundplayer",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "axios": "^0.18.0",
+        "react": "^16.0.0",
+        "react-dom": "^16.0.0",
+        "react-howler": "^3.7.4",
+        "react-scripts": "1.0.17",
+        "react-soundplayer": "^1.0.4",
+        "react-tooltip": "^3.9.2",
+        "react-wavesurfer": "^0.8.6",
+        "semantic-ui-css": "^2.4.1",
+        "semantic-ui-react": "^0.84.0",
+        "wavesurfer.js": "^2.1.2"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    }
+}
